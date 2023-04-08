@@ -1,0 +1,5 @@
+All data was generated during April of 2023.
+
+Sources :
+ - Acceptance Rates : US News (using 2022 acceptance rates)
+ - Undergraduate Population : US News (using 2022 data) 
