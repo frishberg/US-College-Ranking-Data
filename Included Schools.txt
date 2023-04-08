@@ -1,0 +1,118 @@
+Alabama
+American
+Arizona
+Auburn
+Baylor
+Binghamton
+Boston College
+Boston University
+Brandeis
+Brigham Young
+Brown
+Caltech
+Carnegie Mellon
+Case Western Reserve
+Catholic
+Central Florida UCF
+Chicago
+Cincinnati
+Clark
+Clemson
+Colorado School of Mines
+Colorado
+Columbia
+Connecticut
+Cornell
+Dartmouth
+Dayton
+Delaware
+Denver
+Drexel
+Duke
+Emory
+Florida
+George Washington
+Georgetown
+Georgia Tech
+Harvard
+Howard
+Illinois
+Indiana
+Iowa
+Johns Hopkins
+Kansas
+Kentucky
+Lehigh
+Loyola Chicago
+Marquette
+Maryland
+Massachusetts Amherst
+Miami Oh
+Michigan
+Minnesota
+Mississippi
+Missouri
+MIT
+NC State
+Nebraska
+New Hampshire
+North Carolina at Chapel Hill
+Northeastern
+Northwestern
+Notre Dame
+NYU
+Ohio St
+Ohio Univ
+Oklahoma
+Oregon
+Pacific
+Penn State
+Penn
+Pepperdine
+Pitt
+Princeton
+Purdue
+Rice
+RIT
+Rochester
+RPI
+Rutgers
+San Diego St
+SMU
+South Carolina
+South Florida USF
+St. Louis
+Stanford
+Stevens Inst Tech
+Stony Brook
+Syracuse
+TCU
+Tennessee
+Texas A&amp;M
+Tufts
+Tulane
+Tulsa
+U of Miami
+UC Berkeley
+UC Davis
+UC Irvine
+UC Riverside
+UC San Diego
+UC Santa Barbara
+UC Santa Cruz
+UCLA
+Univ at Buffalo
+USC
+UT Austin
+UT Dallas
+UW Madison
+Vanderbilt
+Vermont
+Villanova
+Virginia
+Wake Forest
+WashU
+William and Mary
+WPI
+Yale
+Yeshiva
