@@ -4,3 +4,4 @@ Sources :
  - Acceptance Rates : US News (using 2022 acceptance rates)
  - Undergraduate Population : US News (using 2022 data) 
  - Niche Grades : Niche (pulled from the Niche report card)
+ - Nobel Prizes : uses a wikipedia page that lists all the Nobel Prize winners by university affiliation [https://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_university_affiliation] (using 2022 data)

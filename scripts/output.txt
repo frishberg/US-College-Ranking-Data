@@ -1,0 +1,46 @@
+Harvard, 37
+MIT, 23
+Stanford, 25
+UC Berkeley, 21
+Caltech, 20
+Chicago, 20
+Columbia, 17
+Princeton, 17
+Yale, 8
+Cornell, 8
+UCLA, 5
+WashU, 5
+UC Santa Barbara, 5
+Johns Hopkins, 6
+Illinois, 4
+Penn, 4
+Washington, 4
+UC San Diego, 3
+Carnegie, 3
+Northwestern, 3
+UC Irvine, 3
+Purdue, 2
+Colorado, 2
+Brown, 2
+Rice, 2
+NYU, 4
+Texas, 2
+Indiana, 2
+USC, 2
+Arizona, 2
+North Carolina at Chapel Hill, 2
+Tufts, 1
+Vanderbilt, 2
+St. Louis, 1
+Delaware, 1
+Minnesota, 1
+Massachusetts, 1
+Michigan, 1
+Case Western, 1
+Brandeis, 1
+Boston University, 1
+Missouri, 1
+Maryland, 1
+Rutgers, 1
+Binghamton, 1
+Rochester, 1
