@@ -1,118 +1,118 @@
-Alabama
-American
-Arizona
-Auburn
-Baylor
-Binghamton
+University of Alabama
+American University
+University of Arizona
+Auburn University
+Baylor University
+Binghamton University
 Boston College
 Boston University
-Brandeis
-Brigham Young
-Brown
-Caltech
-Carnegie Mellon
-Case Western Reserve
-Catholic
-Central Florida UCF
-Chicago
-Cincinnati
-Clark
-Clemson
-Colorado School of Mines
-Colorado
-Columbia
-Connecticut
-Cornell
-Dartmouth
-Dayton
-Delaware
-Denver
-Drexel
-Duke
-Emory
-Florida
-George Washington
-Georgetown
-Georgia Tech
-Harvard
-Howard
-Illinois
-Indiana
-Iowa
-Johns Hopkins
-Kansas
-Kentucky
-Lehigh
-Loyola Chicago
-Marquette
-Maryland
+Brandeis University
+Brigham Young University
+Brown University
+California Institute of Technology
+Carnegie Mellon University
+Case Western Reserve University
+Catholic University of America
+University of Central University of Florida
+University of Chicago
+University of Cincinnati
+Clark University
+Clemson University
+University of Colorado School of Mines
+University of Colorado
+Columbia University
+University of Connecticut
+Cornell University
+Dartmouth College
+University of Dayton
+University of Delaware
+University of Denver
+Drexel University
+Duke University
+Emory University
+University of Florida
+George Washington University
+Georgetown University
+Georgia Institute of Technology
+Harvard University
+Howard University
+University of Illinois
+Indiana University
+University of Iowa
+Johns Hopkins University
+University of Kansas
+University of Kentucky
+Lehigh University
+Loyola University of Chicago
+Marquette University
+University of Maryland
 Massachusetts Amherst
-Miami Oh
-Michigan
-Minnesota
-Mississippi
-Missouri
-MIT
-NC State
-Nebraska
+Miami University of Ohio
+University of Michigan
+University of Minnesota
+University of Mississippi
+University of Missouri
+Massachusetts Institute of Technology
+North Carolina State University
+University of Nebraska
 New Hampshire
-North Carolina at Chapel Hill
-Northeastern
-Northwestern
-Notre Dame
-NYU
-Ohio St
-Ohio Univ
-Oklahoma
-Oregon
-Pacific
-Penn State
-Penn
-Pepperdine
-Pitt
+University of North Carolina at Chapel Hill
+Northeastern University
+Northwestern University
+University of Notre Dame
+New York University
+Ohio State University
+Ohio University
+University of Oklahoma
+University of Oregon
+Pacific University
+University of Pennsylvaniasylvania State University
+University of Pennsylvania
+Pepperdine University
+University of Pittsburgh
 Princeton
-Purdue
-Rice
-RIT
+Purdue University
+Rice University
+Rochester Institute of Technology
 Rochester
-RPI
-Rutgers
-San Diego St
-SMU
-South Carolina
-South Florida USF
-St. Louis
-Stanford
-Stevens Inst Tech
-Stony Brook
-Syracuse
-TCU
-Tennessee
-Texas A&amp;M
-Tufts
-Tulane
-Tulsa
-U of Miami
-UC Berkeley
-UC Davis
-UC Irvine
-UC Riverside
-UC San Diego
-UC Santa Barbara
-UC Santa Cruz
+Rensselaer Polytechnic Institute
+Rutgers University
+San Diego State University
+Southern Methodist University
+University of South Carolina
+University of Southern Florida
+Saint Louis University
+Stanford University
+Stevens Institute of Technology
+Stony Brook University
+Syracuse University
+Texas Christian University
+University of Tennessee
+Texas A&M University
+Tufts University
+Tulane University
+University of Tulsa
+University of Miami
+University of California Berkeley
+University of California Davis
+University of California Irvine
+University of California Riverside
+University of California San Diego
+University of California Santa Barbara
+University of California Santa Cruz
 UCLA
-Univ at Buffalo
-USC
-UT Austin
-UT Dallas
-UW Madison
-Vanderbilt
-Vermont
-Villanova
-Virginia
-Wake Forest
-WashU
-William and Mary
-WPI
-Yale
-Yeshiva
+University at Buffalo
+University of Southern California
+University of Texas Austin
+University of Texas Dallas
+University of Wisconsin at Madison
+Vanderbilt University
+University of Vermont
+Villanova University
+University of Virginia
+Wake Forest University
+Washington University in St. Louis
+William and Mary University
+Worcester Polytechnic Institute
+Yale University
+Yeshiva University
