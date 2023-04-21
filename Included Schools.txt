@@ -13,12 +13,12 @@ California Institute of Technology
 Carnegie Mellon University
 Case Western Reserve University
 Catholic University of America
-University of Central University of Florida
+University of Central Florida
 University of Chicago
 University of Cincinnati
 Clark University
 Clemson University
-University of Colorado School of Mines
+Colorado School of Mines
 University of Colorado
 Columbia University
 University of Connecticut
@@ -55,7 +55,7 @@ University of Missouri
 Massachusetts Institute of Technology
 North Carolina State University
 University of Nebraska
-New Hampshire
+University of New Hampshire
 University of North Carolina at Chapel Hill
 Northeastern University
 Northwestern University
@@ -66,15 +66,15 @@ Ohio University
 University of Oklahoma
 University of Oregon
 Pacific University
-University of Pennsylvaniasylvania State University
+Pennsylvania State University
 University of Pennsylvania
 Pepperdine University
 University of Pittsburgh
-Princeton
+Princeton University
 Purdue University
 Rice University
 Rochester Institute of Technology
-Rochester
+University of Rochester
 Rensselaer Polytechnic Institute
 Rutgers University
 San Diego State University

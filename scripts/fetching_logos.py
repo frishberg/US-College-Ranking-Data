@@ -1,27 +1,39 @@
-import os
-from icrawler.builtin import GoogleImageCrawler
-import time
-import json
-
-#param: name of celebrity
-#this method downloads a picture of the desired celebrity to the image folder of the webpage
-def fetch_image(school_name) :
-    filters = dict()
-    google_Crawler = GoogleImageCrawler(storage = {'root_dir': 'logos'})
-    google_Crawler.crawl(keyword = school_name + " square logo", max_num = 1, filters=filters)
-    try :
-        os.rename('logos/000001.jpg', 'logos/' + school_name + '.jpg')
-    except FileNotFoundError :
-        os.rename('logos/000001.png', 'logos/' + school_name + '.jpg')
+from selenium import webdriver
+import urllib.request
 
 def main() :
     f = open("Included Schools.txt", "r")
     for school in f.readlines() :
-        school = school[:-1]
-        if (not (os.path.exists("logos/" + school + ".jpg") or os.path.exists("logos/" + school + ".png"))) :
-            fetch_image(school)
-            print("Image fetched for " + school)
-            time.sleep(1)
-        else :
-            print("Image already exists for " + school)
+        try :
+            school = school[:-1]
+            logo_url = fetch_logo(school)
+            download_image_from_url(logo_url, "logos/" + school)
+        except :
+            print("Error with " + school)
+    
+def download_image_from_url(url, filename) :
+    extension = url[url.rindex(".")+1:]
+    urllib.request.urlretrieve(url, filename + "." + extension)
+
+def fetch_logo(school_name) :
+    from googlesearch import search
+    google_results = search(school_name + " wikipedia", num_results=1, sleep_interval=1)
+    wikipedia_link = ""
+    for result in google_results :
+        wikipedia_link = result
+    logo_url = extract_wikipedia_logo_url(wikipedia_link)
+    return logo_url
+
+def extract_wikipedia_logo_url(link) : #using selenium
+    driver = webdriver.Chrome("chromedriver.exe")
+    driver.get(link)
+    source = driver.page_source
+    driver.close()
+    source = source[source.index("og:image"):]
+    source = source[source.index("content=")+9:]
+    logo_url = source[:source.index('"')]
+    print(logo_url)
+    return logo_url
+
+
 main()
