@@ -14,7 +14,7 @@ def perform_replace(file_name, original, new) :
         print(file_name + " sucessful")
 
 def do_the_thing(file_name) :
-    perform_replace(file_name, "University of Rochester Institute of Technology", "Rochester Institute of Technology")
+    perform_replace(file_name, "Massachusetts Amherst", "University of Massachusetts Amherst")
 
 for file_name in os.listdir() :
     do_the_thing(file_name)
