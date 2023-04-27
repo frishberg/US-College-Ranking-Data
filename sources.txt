@@ -6,3 +6,4 @@ Sources :
  - Niche Grades : Niche (pulled from the Niche report card)
  - Nobel Prizes : uses a wikipedia page that lists all the Nobel Prize winners by university affiliation [https://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_university_affiliation] (using 2022 data)
  - Average SAT : uses US News, averaging the 25th and 75th percentiles of SAT.  There is no official average SAT standardized across all colleges, so I felt this was the most accurate source/method
+ - Logos : I pulled these images from Wikipedia, pulling the coat of arms for each university
