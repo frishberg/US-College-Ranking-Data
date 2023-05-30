@@ -2,7 +2,7 @@ import csv
 import os
 import json
 
-f = open("external-data/historical-usnews.json", "r")
+f = open("json-data/2022_qs_world_ranking.json", "r")
 data = json.load(f)
 f.close()
 
@@ -12,5 +12,4 @@ f.close()
 
 for school in schools :
     school = school.strip()
-    rank = str(data[school]['2023'])
-    print(rank)
+    print(data[school])

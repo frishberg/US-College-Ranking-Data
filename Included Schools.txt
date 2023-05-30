@@ -1,6 +1,4 @@
-University of Alabama
 American University
-University of Arizona
 Auburn University
 Baylor University
 Binghamton University
@@ -13,86 +11,57 @@ California Institute of Technology
 Carnegie Mellon University
 Case Western Reserve University
 Catholic University of America
-University of Central Florida
-University of Chicago
-University of Cincinnati
 Clark University
 Clemson University
 Colorado School of Mines
-University of Colorado
 Columbia University
-University of Connecticut
 Cornell University
 Dartmouth College
-University of Dayton
-University of Delaware
-University of Denver
 Drexel University
 Duke University
 Emory University
-University of Florida
 George Washington University
 Georgetown University
 Georgia Institute of Technology
 Harvard University
 Howard University
-University of Illinois
 Indiana University
-University of Iowa
 Johns Hopkins University
-University of Kansas
-University of Kentucky
 Lehigh University
 Loyola University of Chicago
 Marquette University
-University of Maryland
-University of Massachusetts Amherst
-Miami University of Ohio
-University of Michigan
-University of Minnesota
-University of Mississippi
-University of Missouri
 Massachusetts Institute of Technology
+Miami University of Ohio
+New York University
 North Carolina State University
-University of Nebraska
-University of New Hampshire
-University of North Carolina at Chapel Hill
 Northeastern University
 Northwestern University
-University of Notre Dame
-New York University
 Ohio State University
 Ohio University
-University of Oklahoma
-University of Oregon
 Pacific University
 Pennsylvania State University
-University of Pennsylvania
 Pepperdine University
-University of Pittsburgh
 Princeton University
 Purdue University
+Rensselaer Polytechnic Institute
 Rice University
 Rochester Institute of Technology
-University of Rochester
-Rensselaer Polytechnic Institute
 Rutgers University
+Saint Louis University
 San Diego State University
 Southern Methodist University
-University of South Carolina
-University of Southern Florida
-Saint Louis University
 Stanford University
 Stevens Institute of Technology
 Stony Brook University
 Syracuse University
-Texas Christian University
-University of Tennessee
 Texas A&M University
+Texas Christian University
 Tufts University
 Tulane University
-University of Tulsa
-University of Miami
+UCLA
+University at Buffalo
+University of Alabama
+University of Arizona
 University of California Berkeley
 University of California Davis
 University of California Irvine
@@ -100,16 +69,47 @@ University of California Riverside
 University of California San Diego
 University of California Santa Barbara
 University of California Santa Cruz
-UCLA
-University at Buffalo
+University of Central Florida
+University of Chicago
+University of Cincinnati
+University of Colorado
+University of Connecticut
+University of Dayton
+University of Delaware
+University of Denver
+University of Florida
+University of Illinois
+University of Iowa
+University of Kansas
+University of Kentucky
+University of Maryland
+University of Massachusetts Amherst
+University of Miami
+University of Michigan
+University of Minnesota
+University of Mississippi
+University of Missouri
+University of Nebraska
+University of New Hampshire
+University of North Carolina at Chapel Hill
+University of Notre Dame
+University of Oklahoma
+University of Oregon
+University of Pennsylvania
+University of Pittsburgh
+University of Rochester
+University of South Carolina
 University of Southern California
+University of Southern Florida
+University of Tennessee
 University of Texas Austin
 University of Texas Dallas
+University of Tulsa
+University of Vermont
+University of Virginia
 University of Wisconsin at Madison
 Vanderbilt University
-University of Vermont
 Villanova University
-University of Virginia
 Wake Forest University
 Washington University in St. Louis
 William and Mary University
