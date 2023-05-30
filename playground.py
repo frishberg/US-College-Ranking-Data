@@ -4,7 +4,7 @@ f = open("Included Schools.txt", "r", encoding="utf-8")
 schools = f.readlines()
 f.close()
 
-f = open("json-data/2023_THE_rankings.json", "r", encoding="utf-8")
+f = open("json-data/RUR_reputation_rankings.json", "r", encoding="utf-8")
 data = json.load(f)
 
 for school in schools :
