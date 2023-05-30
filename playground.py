@@ -1,16 +1,15 @@
 import json
 
-f = open("json-data/nobel_prizes.json", "r")
+f = open("Included Schools.txt", "r", encoding="utf-8")
+schools = f.readlines()
+f.close()
+
+f = open("json-data/2023_THE_rankings.json", "r", encoding="utf-8")
 data = json.load(f)
-f.close()
 
-new_data = {}
-
-for row in data :
-    name = row
-    val = int(data[row])
-    new_data[name] = val
-
-f = open("json-data/nobel_prizes.json", "w")
-json.dump(new_data, f)
-f.close()
+for school in schools :
+    school = school.strip()
+    if school in data :
+        print(data[school])
+    else :
+        print("No Ranking")
