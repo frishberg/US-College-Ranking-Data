@@ -22,7 +22,7 @@
         "2022 QS World Ranking": 651,
         "2023 THE World Ranking": 601,
         "2022 RUR World Reputation Ranking": 509,
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Auburn University": {
         "Acceptance Rate": 71,
@@ -72,7 +72,7 @@
         "2022 QS World Ranking": 1001,
         "2023 THE World Ranking": 601,
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Binghamton University": {
         "Acceptance Rate": 44,
@@ -322,7 +322,7 @@
         "2022 QS World Ranking": 3000,
         "2023 THE World Ranking": "No Ranking",
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Clark University": {
         "Acceptance Rate": 48,
@@ -347,7 +347,7 @@
         "2022 QS World Ranking": 751,
         "2023 THE World Ranking": 1001,
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Clemson University": {
         "Acceptance Rate": 49,
@@ -672,7 +672,7 @@
         "2022 QS World Ranking": 651,
         "2023 THE World Ranking": 351,
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Indiana University": {
         "Acceptance Rate": 85,
@@ -772,7 +772,7 @@
         "2022 QS World Ranking": 801,
         "2023 THE World Ranking": "No Ranking",
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Marquette University": {
         "Acceptance Rate": 86,
@@ -797,7 +797,7 @@
         "2022 QS World Ranking": 1001,
         "2023 THE World Ranking": 801,
         "2022 RUR World Reputation Ranking": 672,
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Massachusetts Institute of Technology": {
         "Acceptance Rate": 4,
@@ -847,7 +847,7 @@
         "2022 QS World Ranking": 1001,
         "2023 THE World Ranking": "No Ranking",
         "2022 RUR World Reputation Ranking": 513,
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "New York University": {
         "Acceptance Rate": 13,
@@ -1022,7 +1022,7 @@
         "2022 QS World Ranking": 1001,
         "2023 THE World Ranking": "No Ranking",
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Pennsylvania State University": {
         "Acceptance Rate": 58,
@@ -1072,7 +1072,7 @@
         "2022 QS World Ranking": 3000,
         "2023 THE World Ranking": "No Ranking",
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Princeton University": {
         "Acceptance Rate": 4,
@@ -1247,7 +1247,7 @@
         "2022 QS World Ranking": 3000,
         "2023 THE World Ranking": 301,
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "San Diego State University": {
         "Acceptance Rate": 38,
@@ -1272,7 +1272,7 @@
         "2022 QS World Ranking": 1001,
         "2023 THE World Ranking": 601,
         "2022 RUR World Reputation Ranking": 451,
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Southern Methodist University": {
         "Acceptance Rate": 53,
@@ -1447,7 +1447,7 @@
         "2022 QS World Ranking": 3000,
         "2023 THE World Ranking": "No Ranking",
         "2022 RUR World Reputation Ranking": 642,
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Tufts University": {
         "Acceptance Rate": 11,
@@ -1922,7 +1922,7 @@
         "2022 QS World Ranking": 3000,
         "2023 THE World Ranking": 801,
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "University of Delaware": {
         "Acceptance Rate": 70,
@@ -2247,7 +2247,7 @@
         "2022 QS World Ranking": 801,
         "2023 THE World Ranking": "No Ranking",
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "University of Missouri": {
         "Acceptance Rate": 77,
@@ -2797,7 +2797,7 @@
         "2022 QS World Ranking": 3000,
         "2023 THE World Ranking": "No Ranking",
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Wake Forest University": {
         "Acceptance Rate": 25,
@@ -2822,7 +2822,7 @@
         "2022 QS World Ranking": 429,
         "2023 THE World Ranking": 351,
         "2022 RUR World Reputation Ranking": 400,
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     },
     "Washington University in St. Louis": {
         "Acceptance Rate": 13,
@@ -2947,6 +2947,6 @@
         "2022 QS World Ranking": 252,
         "2023 THE World Ranking": "No Ranking",
         "2022 RUR World Reputation Ranking": "No Ranking",
-        "2023 CSRankings": "Not Available"
+        "2023 CSRankings": "No Ranking"
     }
 }

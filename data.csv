@@ -1,7 +1,7 @@
 University Name,Acceptance Rate,Average SAT,Niche Academic Grade,Niche Athletic Grade,Niche Campus Grade,Niche Campus Food Grade,Niche Diversity Grade,Niche Dorms Grade,Niche Location Grade,Niche Overall Grade,Niche Party Scene Grade,Niche Professors Grade,Niche Safety Grade,Niche Student Life Grade,Niche Value Grade,Nobel Prizes,QS World Rankings,Undergraduate Population,2023 US News Ranking,2022 QS World Ranking,2023 THE World Ranking,2022 RUR World Reputation Ranking,2023 CSRankings
-American University,64,1360,A,B,B-,C-,A,C,A,A-,B,A-,B+,B,B+,,651,8463,72,651,601,509,Not Available
+American University,64,1360,A,B,B-,C-,A,C,A,A-,B,A-,B+,B,B+,,651,8463,72,651,601,509,No Ranking
 Auburn University,71,1260,A-,A+,A,A,B,B,A-,A,A,A-,B,A+,A-,,801,24931,97,801,601,318,113
-Baylor University,57,1255,A,A+,A-,B+,A-,B+,C,A-,B,A-,C+,A,B+,,1001,15191,77,1001,601,No Ranking,Not Available
+Baylor University,57,1255,A,A+,A-,B+,A-,B+,C,A-,B,A-,C+,A,B+,,1001,15191,77,1001,601,No Ranking,No Ranking
 Binghamton University,44,1390,A-,B,B-,B-,A,B+,C,A-,A+,A-,C+,A-,A,,801,14307,83,801,601,549,67
 Boston College,19,1475,A+,A+,A,B,A,B-,A,A+,A-,A+,B+,A+,A+,,494,9532,36,494,251,225,113
 Boston University,19,1440,A+,A,B,A-,A+,B-,A+,A+,A,A+,B,A+,A,9,485,18229,41,485,71,71,41
@@ -11,8 +11,8 @@ Brown University,6,1515,A+,B,A,B+,A+,B,A+,A+,A-,A+,B+,A+,A+,7,451,7349,13,451,61
 California Institute of Technology,4,1555,A+,C+,B,B-,A,B+,A-,A+,B,A+,B-,A-,A+,76,6,987,9,6,6,10,71
 Carnegie Mellon University,14,1520,A+,C,B-,B-,A+,B-,A,A+,B,A+,B,A-,A+,20,53,7365,22,53,28,34,1
 Case Western Reserve University,30,1470,A+,C+,C,C,A+,C,B-,A+,C+,A+,C,B,A,18,161,5792,44,161,134,187,101
-Catholic University of America,86,1255,B+,B,B,C-,A-,B-,B+,B+,B+,A-,B,A-,A-,,3000,2929,176,3000,No Ranking,No Ranking,Not Available
-Clark University,48,1310,A,C,C,C+,A,B-,B-,A-,B-,A,B,B-,B+,,751,2305,97,751,1001,No Ranking,Not Available
+Catholic University of America,86,1255,B+,B,B,C-,A-,B-,B+,B+,B+,A-,B,A-,A-,,3000,2929,176,3000,No Ranking,No Ranking,No Ranking
+Clark University,48,1310,A,C,C,C+,A,B-,B-,A-,B-,A,B,B-,B+,,751,2305,97,751,1001,No Ranking,No Ranking
 Clemson University,49,1320,A,A+,A-,B,B+,B,B-,A,A,A,A-,A+,A,,801,21653,77,801,801,No Ranking,71
 Colorado School of Mines,57,1390,A,B,C+,C-,A-,B,B+,A,C+,A,B,B,A+,,461,5491,89,461,401,152,84
 Columbia University,6,1515,A+,B-,A,A,A+,A-,A+,A+,A-,A+,B,A+,A+,96,19,8148,18,19,11,14,15
@@ -25,38 +25,38 @@ George Washington University,50,1400,A,B+,B+,A-,A+,B,A+,A,A,A,B-,A,A,,355,11502,
 Georgetown University,12,1480,A+,A,B,C,A+,C,A+,A+,A,A+,B-,A+,A+,,248,7598,22,248,136,152,84
 Georgia Institute of Technology,18,1450,A+,A,B+,C+,A+,C,A+,A+,A-,A+,B,A+,A+,,88,17447,44,88,1001,27,173
 Harvard University,4,1530,A+,A-,A,B+,A+,A,A+,A+,A-,A+,B,A+,A+,161,5,7153,3,5,2,1,34
-Howard University,35,1185,B+,B+,C,C+,A,D+,A+,B+,A+,B+,C,A,B,,651,8964,89,651,351,No Ranking,Not Available
+Howard University,35,1185,B+,B+,C,C+,A,D+,A+,B+,A+,B+,C,A,B,,651,8964,89,651,351,No Ranking,No Ranking
 Indiana University,85,1270,A-,A+,A,A-,A,B-,A-,A,A+,A,C+,A+,A-,8,311,34253,72,311,170,74,53
 Johns Hopkins University,8,1540,A+,C+,B+,B,A+,B,B+,A+,B,A+,B,A-,A+,39,25,6132,7,25,15,18,53
 Lehigh University,46,1407,A+,B+,B-,B-,A,C+,C+,A+,A+,A+,B-,A,A+,,531,5451,51,531,601,439,94
-Loyola University of Chicago,77,1260,A-,A-,A-,B-,A,B,A-,B+,B-,B+,B,B+,B,,801,11819,115,801,No Ranking,No Ranking,Not Available
-Marquette University,86,1270,A-,A,C+,B-,A-,B-,B+,A-,A-,A-,C,B+,A-,,1001,7660,83,1001,801,672,Not Available
+Loyola University of Chicago,77,1260,A-,A-,A-,B-,A,B,A-,B+,B-,B+,B,B+,B,,801,11819,115,801,No Ranking,No Ranking,No Ranking
+Marquette University,86,1270,A-,A,C+,B-,A-,B-,B+,A-,A-,A-,C,B+,A-,,1001,7660,83,1001,801,672,No Ranking
 Massachusetts Institute of Technology,4,1545,A+,B-,A-,B-,A+,A,A+,A+,A,A+,B,A+,A+,97,1,4638,2,1,5,1,4
-Miami University of Ohio,89,1265,B+,B+,A,B+,B+,B+,B,B+,A+,B+,B-,A,B+,,1001,16977,105,1001,No Ranking,513,Not Available
+Miami University of Ohio,89,1265,B+,B+,A,B+,B+,B+,B,B+,A+,B+,B-,A,B+,,1001,16977,105,1001,No Ranking,513,No Ranking
 New York University,13,1510,A+,C,B+,A-,A+,B-,A+,A+,A,A+,B+,A,A-,38,42,28772,25,42,24,29,20
 North Carolina State University,47,1355,A,A,A-,A-,A-,B,A-,A,A,A,B-,A+,A,,300,26505,72,300,351,116,43
 Northeastern University,18,1490,A+,A-,A-,B,A+,B,A+,A+,B+,A+,B,A+,A,,342,15747,44,342,168,291,11
 Northwestern University,7,1510,A+,A,A,B,A+,B,A-,A+,A-,A+,B,A+,A+,22,342,8494,10,342,26,36,31
 Ohio State University,57,1345,A,A+,A,A+,A,B,A,A+,A+,A+,C-,A+,A,,120,47106,49,120,112,51,32
 Ohio University,89,1180,B+,A-,A,A-,B+,B,B+,A-,A+,A,B-,A+,B+,,1001,18031,182,1001,801,No Ranking,144
-Pacific University,79,1250,B+,B+,B-,B,A,C+,C-,B+,B,A-,B-,B-,A-,,1001,3306,194,1001,No Ranking,No Ranking,Not Available
+Pacific University,79,1250,B+,B+,B-,B,A,C+,C-,B+,B,A-,B-,B-,A-,,1001,3306,194,1001,No Ranking,No Ranking,No Ranking
 Pennsylvania State University,58,1300,A,A+,A,A-,A,B,A-,A+,A+,A+,B,A+,A,,96,40600,77,96,151,39,29
-Pepperdine University,53,1350,A,B+,B+,C+,A,B-,B-,A,C,A-,A,B,B+,,3000,3708,55,3000,No Ranking,No Ranking,Not Available
+Pepperdine University,53,1350,A,B+,B+,C+,A,B-,B-,A,C,A-,A,B,B+,,3000,3708,55,3000,No Ranking,No Ranking,No Ranking
 Princeton University,4,1515,A+,B+,A,A,A+,A-,B+,A+,B+,A+,B,A+,A+,69,20,5321,1,20,7,8,19
 Purdue University,69,1310,A,A,B+,A,A,B,C+,A+,A-,A+,B+,A,A+,9,116,37101,51,116,127,40,13
 Rensselaer Polytechnic Institute,53,1440,A,C+,C-,C+,A,C,C+,A,B,A,C+,B-,A,,431,5614,51,431,601,375,101
 Rice University,9,1530,A+,A-,A+,A+,A+,A+,A+,A+,A,A+,B,A+,A+,,94,4247,15,94,147,137,45
 Rochester Institute of Technology,71,1360,A-,C+,C-,C+,A,C-,B,B+,B-,B+,B+,B,A-,,1001,14000,105,1001,1001,No Ranking,59
 Rutgers University,68,1355,A,A,B-,B+,A+,C+,B+,A,A+,A,C+,A+,A,6,264,36152,115,264,201,110,25
-Saint Louis University,70,1265,A,B+,B,B-,A-,B-,A,A,B+,A,C+,A-,A,,3000,7366,105,3000,301,No Ranking,Not Available
-San Diego State University,38,1225,B+,A,A,A,A+,C+,A,A-,A+,B-,B,A+,A-,,1001,30865,151,1001,601,451,Not Available
+Saint Louis University,70,1265,A,B+,B,B-,A-,B-,A,A,B+,A,C+,A-,A,,3000,7366,105,3000,301,No Ranking,No Ranking
+San Diego State University,38,1225,B+,A,A,A,A+,C+,A,A-,A+,B-,B,A+,A-,,1001,30865,151,1001,601,451,No Ranking
 Southern Methodist University,53,1425,A+,A,A+,A-,A-,B+,A+,A+,A+,A+,B,A+,A-,,801,6908,72,801,No Ranking,No Ranking,173
 Stanford University,4,1520,A+,A+,A,A,A+,A,B,A+,B+,A+,B-,A+,A+,84,3,7645,3,3,3,3,6
 Stevens Institute of Technology,53,1440,A,C+,C,C,A,C-,A+,A-,B+,A-,B,B+,A,,701,3932,83,701,501,722,71
 Stony Brook University,48,1390,A,A-,D+,C-,A+,C-,C,A-,B-,B+,B,B-,A,,378,17999,77,378,301,254,22
 Syracuse University,59,1310,A-,A+,B,C,A,B,C+,A-,A+,A,C+,A+,B,,651,14778,62,651,401,206,84
 Texas A&M University,64,1260,A,A+,A-,A,A-,B-,B,A+,A,A+,B-,A+,A,8,168,56723,67,168,181,78,36
-Texas Christian University,54,1240,A,A,A+,B,A-,A+,A-,A,A,A-,B-,A+,B+,,3000,10222,89,3000,No Ranking,642,Not Available
+Texas Christian University,54,1240,A,A,A+,B,A-,A+,A-,A,A,A-,B-,A+,B+,,3000,10222,89,3000,No Ranking,642,No Ranking
 Tufts University,11,1495,A+,B-,B+,A,A+,B,A,A+,B,A,B+,A,A+,7,275,6676,32,275,151,187,77
 Tulane University,10,1435,A+,B+,B+,B-,A-,C+,A+,A+,A+,A+,C+,A+,B+,,436,7780,44,436,351,352,84
 UCLA,11,1405,A+,A+,A+,A+,A+,A+,A+,A+,A+,A+,B,A+,A,25,40,32119,20,40,21,7,21
@@ -75,7 +75,7 @@ University of Chicago,6,1545,A+,C,A-,B+,A+,A,B-,A+,B,A+,C+,A,A+,100,10,7526,6,10
 University of Cincinnati,85,1250,A-,A,A-,B,A-,B-,A+,A,A+,A,C+,A+,B+,,601,28910,151,601,No Ranking,No Ranking,144
 University of Colorado,80,1280,A-,A,A,A,A-,B-,A,A-,A+,A,C+,A+,B+,13,251,30936,97,251,148,81,41
 University of Connecticut,56,1330,A,A+,B-,B,A+,C+,C+,A,A,A-,B,A,A,,373,18567,67,373,401,316,66
-University of Dayton,81,1230,A-,A-,A,A+,B+,A,B-,A-,A+,A-,C+,A+,A-,,3000,8637,127,3000,801,No Ranking,Not Available
+University of Dayton,81,1230,A-,A-,A,A+,B+,A,B-,A-,A+,A-,C+,A+,A-,,3000,8637,127,3000,801,No Ranking,No Ranking
 University of Delaware,70,1260,A-,A,A-,B+,A-,B-,B+,A,A+,A,B-,A+,A,,531,18671,89,531,351,244,62
 University of Denver,64,1295,A-,A,B,C,A-,C+,A,B+,A,A-,B-,B+,B,,751,5867,105,751,401,No Ranking,144
 University of Florida,30,1385,A+,A+,A-,B+,A,C+,B,A+,A+,A+,B-,A+,A+,,173,34881,29,173,151,70,62
@@ -88,7 +88,7 @@ University of Massachusetts Amherst,66,1355,A,A-,A-,A+,A,B,B,A,A+,A,B+,A+,A,,246
 University of Miami,28,1380,A+,A+,A-,B-,A+,C-,A,A+,A+,A+,B,A+,A-,7,311,12089,55,311,194,227,173
 University of Michigan,20,1445,A+,A+,A,A,A+,B+,A,A+,A+,A+,B,A+,A+,26,23,32282,25,23,23,13,5
 University of Minnesota,73,1400,A,A+,A-,B,A,C+,A+,A,A+,A,C,A+,A,,186,36209,62,186,101,46,47
-University of Mississippi,90,1125,A-,A+,A+,A,A-,A-,A,A,A+,A,A-,A+,A-,,801,16092,151,801,No Ranking,No Ranking,Not Available
+University of Mississippi,90,1125,A-,A+,A+,A,A-,A-,A,A,A+,A,A-,A+,A-,,801,16092,151,801,No Ranking,No Ranking,No Ranking
 University of Missouri,77,1240,A-,A,A,A-,B+,B+,B+,A-,A+,A,B-,A+,A-,,476,23706,121,476,601,302,144
 University of Nebraska,81,1205,A-,A,A-,A-,A-,A-,A-,A-,A,A,B-,A,A-,,571,19552,151,571,401,402,84
 University of New Hampshire,87,1205,B+,A-,A,A,B+,B+,B,B+,A,A-,B,A,B+,,801,11490,137,801,No Ranking,No Ranking,101
@@ -110,10 +110,10 @@ University of Vermont,64,1325,B+,B+,B,C+,B,C+,A,B+,A-,A-,B,A-,A-,,651,11626,121,
 University of Virginia,21,1460,A+,A+,A,C,A,B+,A-,A+,A+,A+,B-,A+,A+,9,226,17299,25,226,156,No Ranking,45
 University of Wisconsin at Madison,60,1425,A+,A+,A,A,A,B,A,A+,A+,A+,B,A+,A+,26,75,35474,38,75,81,30,13
 Vanderbilt University,7,1525,A+,A,A,A,A+,B,A+,A+,A+,A+,B-,A+,A+,8,218,7111,13,218,98,100,67
-Villanova University,25,1420,A+,A+,B+,C+,B+,B,B+,A+,B+,A,B,A,A+,,3000,7032,51,3000,No Ranking,No Ranking,Not Available
-Wake Forest University,25,1425,A+,A,A-,B+,A-,B+,C+,A+,A,A+,B+,A,A+,,429,5472,29,429,351,400,Not Available
+Villanova University,25,1420,A+,A+,B+,C+,B+,B,B+,A+,B+,A,B,A,A+,,3000,7032,51,3000,No Ranking,No Ranking,No Ranking
+Wake Forest University,25,1425,A+,A,A-,B+,A-,B+,C+,A+,A,A+,B+,A,A+,,429,5472,29,429,351,400,No Ranking
 Washington University in St. Louis,13,1530,A+,B+,A+,A+,A+,A+,A,A+,A-,A+,B+,A+,A+,25,107,8034,15,107,57,54,59
 William and Mary University,37,1440,A+,B+,B-,C-,A,C-,B,A+,B-,A,B,B+,A+,,651,6543,41,651,401,477,77
 Worcester Polytechnic Institute,60,1380,A,C+,C,C-,A-,C-,B,A,B+,A-,B,B+,A,,751,5224,67,751,801,529,67
 Yale University,5,1530,A+,A-,A,A-,A+,A+,A,A+,A+,A+,C+,A+,A+,65,14,6536,3,14,9,9,36
-Yeshiva University,62,1325,A,C,B,B+,A-,B+,A-,A-,B-,A,A,A-,B-,,252,2045,67,252,No Ranking,No Ranking,Not Available
+Yeshiva University,62,1325,A,C,B,B+,A-,B+,A-,A-,B-,A,A,A-,B-,,252,2045,67,252,No Ranking,No Ranking,No Ranking
