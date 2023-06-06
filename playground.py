@@ -1,16 +1,18 @@
 import json
 
-f = open("included schools.txt", "r", encoding="utf-8")
+f = open("data.json", "r")
+data = json.load(f)
+f.close()
+
+f = open("included schools.txt", "r")
 schools = f.readlines()
 f.close()
 
-schools = [school.strip() for school in schools]
-f = open("json-data/CSRankings.json", "r", encoding="utf-8")
-json_data = json.load(f)
-f.close()
+json_data = {}
 
 for school in schools:
-    if school not in json_data:
-        print("Not Available")
-    else :
-        print(json_data[school])
+    school = school.strip()
+    json_data[school] = int(data[school]["2023 US News Ranking"])
+
+f = open("json-data/2023_usnews_rankings.json", "w")
+json.dump(json_data, f)
